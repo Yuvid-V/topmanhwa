@@ -25,3 +25,6 @@ This will start the development server and open the application in your browser 
 #Usage
 Navigate through the list of manhwa using the header links.
 Click on any manhwa title to view its details.
+
+Deployment:
+https://youtu.be/Cnz-tGQYMzw?si=7AitGQCCT6OnpXal
